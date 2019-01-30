@@ -1,0 +1,34 @@
+body{
+	background-color: #fbebea;
+}
+
+.cake {
+
+	margin-left: 73px;
+	margin-top: 63px;
+	font-family: 'Playfair Display', serif;
+	font-size: 23px;
+	font-weight: bold;
+
+}
+
+ul {
+
+	height: 30px;
+
+}
+
+.contacts{
+	
+	/*position: absolute;*/
+	text-align: right;
+	margin-right: 73px;
+
+}
+
+.tortic{
+
+	float: right;
+	margin-top: 106px;
+
+}
