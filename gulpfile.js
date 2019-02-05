@@ -26,10 +26,10 @@ gulp.task("browserSync", function(){
 
 gulp.task( "sass", function(){
 
-	return gulp.src('app/sass/**/*.sass')
-	.pipe(sass())
-	.pipe(gulp.dest('app/css'))
-	.pipe(browserSync.reload({stream: true}));
+	// return gulp.src('app/sass/**/*.sass')
+	// .pipe(sass())
+	// .pipe(gulp.dest('app/css'))
+	// .pipe(browserSync.reload({stream: true}));
 
 
 
